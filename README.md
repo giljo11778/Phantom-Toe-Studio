@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giljo11778
 - 👀 I’m interested in small projects that I can't find free or inexpensive solutions for.
-- 🌱 I’m currently learning APK BASIC, a version of DARK BASIC
+- 🌱 I’m currently learning AGK BASIC, a version of DARK BASIC
 - 📫 How to reach me: giljo11778@yahoo.com
 
 <!---
